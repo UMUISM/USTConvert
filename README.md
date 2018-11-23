@@ -3,6 +3,10 @@ USTConvert：Convert UTF-8 UST to Shift_JIS for UTAU
 
 ![1](https://raw.githubusercontent.com/740291272/USTConvert/master/pic/1.png)
 
+## 下载地址：
+
+[https://github.com/740291272/USTConvert/releases/download/1.0/USTConvert.exe](https://github.com/740291272/USTConvert/releases/download/1.0/USTConvert.exe)
+
 ## 使用方法
 
 1.先用UTAU打开要转换的UST
