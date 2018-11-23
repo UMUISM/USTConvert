@@ -11,7 +11,7 @@ USTConvert：Convert UTF-8 UST to Shift_JIS for UTAU
 
 2.点击另存为，保存为UST形式
 
-![3](https://raw.githubusercontent.com/740291272/USTConvert/master/pic/.png)
+![3](https://raw.githubusercontent.com/740291272/USTConvert/master/pic/3.png)
 
 3.右键UST，用记事本打开
 
